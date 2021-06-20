@@ -8,11 +8,15 @@ Aplicación hecha en Flutter, obteniendo los datos de la Api de Coronavirus
 <table>
   <tr>
     <td><h1>Login</h1></td>
-     <td><h1>Pantalla Paises</h1></td>
+     <td><h1>Pantalla Mundo</h1></td>
+    <td><h1>Pantalla Paises</h1></td>
+    <td><h1>Pantalla Detalle</h1></td>
   </tr>
   <tr>
     <td><img src="images/Login.PNG"></td>
     <td><img src="images/World.PNG"></td>
+    <td><img src="images/Countries.PNG"></td>
+    <td><img src="images/detail.PNG"></td>
   </tr>
  </table>
  
