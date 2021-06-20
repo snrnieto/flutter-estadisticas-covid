@@ -1,8 +1,23 @@
-# pruebaapi
+# Covidisticas
 
-A new Flutter project.
+Aplicación hecha en Flutter, obteniendo los datos de la Api de Coronavirus
 
-## Getting Started
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td><h1>Login</h1></td>
+     <td><h1>Pantalla Paises</h1></td>
+  </tr>
+  <tr>
+    <td><img src="images/Login.PNG"></td>
+    <td><img src="images/World.PNG"></td>
+  </tr>
+ </table>
+ 
+ 
+ 
 
 This project is a starting point for a Flutter application.
 
